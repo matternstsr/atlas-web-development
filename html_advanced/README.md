@@ -6,11 +6,12 @@ This project focuses on implementing a webpage from a designer file using HTML, 
 ## Concepts
 The following concepts are expected to be explored in this project:
 
-- HTML - elements of a web page
-- HTML Foundations
-- HTML - Semantic sectioning elements
-- HTML Semantic Elements
-- HTML Validation
+- HTML - Some pointers about HTML [Link](https://intranet.atlasschool.com/concepts/834)
+- HTML - elements of a web page [Link](https://intranet.atlasschool.com/concepts/835)
+- HTML Foundations [Link](https://intranet.atlasschool.com/concepts/836)
+- HTML - Semantic sectioning elements [Link](https://intranet.atlasschool.com/concepts/837)
+- HTML Semantic Elements [Link](https://intranet.atlasschool.com/concepts/838)
+- HTML Validation [Link](https://intranet.atlasschool.com/concepts/839)
 
 ## Learning Objectives
 Upon completion of this project, you should be able to explain the following concepts without relying on external resources:
@@ -69,3 +70,4 @@ Conclude the page with a footer containing an image, links, and text. Ensure pro
 The project aims to build a webpage structure using HTML, setting the foundation for future styling and functionality enhancements. Remember to perform manual QA review upon completing the project and request it accordingly.
 
 Enjoy coding and building awesome webpages!
+

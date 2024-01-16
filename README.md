@@ -32,6 +32,9 @@ Upon completion of this project, you should be able to explain the following con
 - Avoid installing, importing, or using external libraries. Use only HTML/CSS/JavaScript.
 - Code should be W3C compliant and validate with W3C-Validator.
 
+# Wireframe example
+![Wireframe photo](https://github.com/TravisAdamson/atlas-web-development/blob/018a255d3812615ed78f8ac03153cde9e185e2a7/html_advanced/readme.jpg)
+
 ## Tasks
 ### 0. README and Objectives
 For this initial task, create an informative `README.md`. Provide details about the project, including concepts to be covered and learning objectives. The project repository is available on GitHub under the directory `html_advanced`.

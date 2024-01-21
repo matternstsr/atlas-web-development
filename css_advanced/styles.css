@@ -4,4 +4,198 @@
   flex-direction: row;
   justify-content: center;
   width: 100%;
+  }
+.school-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 3718px;
+  position: relative;
 }
+.main-page .div-wrapper {
+  position: relative;
+  width: 164px;
+  height: 46px;
+  top: -1px;
+  left: -1px;
+  background-color: #c170ff;
+  border-radius: 22px;
+}
+  .main-page .main-section {
+    background-color: #fa04bc;
+    overflow: hidden;
+    width: 1440px;
+    height: 3718px;
+    position: relative;
+  }
+  
+  .main-page .main-section .background-container {
+    background-image: url(./img/background.png);
+    background-size: 100% 100%;
+    width: 1440px;
+    height: 1093px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0; /* Move the background container behind other elements NEAT!! */
+  }
+
+.main-page .header {
+  position: absolute;
+  width: 1103px;
+  height: 29px;
+  top: 35px;
+  left: 172px;
+  background-color: transparent;
+  
+}
+.main-page .menu {
+  position: absolute;
+  width: 234px;
+  height: 15px;
+  top: 2px;
+  left: 869px;
+}
+.main-page .logo-smile-school {
+  position: absolute;
+  width: 167px;
+  height: 29px;
+  top: 0;
+  left: 0;
+}
+.main-page .smile-school {
+  position: absolute;
+  width: 112px;
+  height: 13px;
+  top: 7px;
+  left: 55px;
+}
+
+.main-page .courses-wrapper {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-page .pricing-wrapper {
+  position: absolute;
+  top: -1px;
+  left: 102px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-page .login-wrapper {
+  position: absolute;
+  top: -1px;
+  left: 200px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+
+.main-page .get-schooled {
+  position: absolute;
+  width: 684px;
+  height: 161px;
+  top: 219px;
+  left: 377px;
+}
+
+.main-page .text-wrapper-get-schooled {
+  position: absolute;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 120px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main-page .text-wrapper-smiles {
+  position: absolute;
+  top: 141px;
+  left: 216px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-page .text-wrapper-grin {
+  position: absolute;
+  top: 141px;
+  left: 327px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-page .text-wrapper-laugh {
+  position: absolute;
+  top: 141px;
+  left: 420px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-page .button-register {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 162px;
+  height: 44px;
+  top: 419px;
+  left: 639px;
+  overflow: hidden;
+  box-shadow: 0px 2px 20px #00000080;
+}
+
+.main-page .text-wrapper-10 {
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #c170ff;
+}
+
+.main-page .text-wrapper-register {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  font-family: "Source Sans Pro-Semibold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+

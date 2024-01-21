@@ -14,12 +14,13 @@
 }
 .main-page .div-wrapper {
   position: relative;
-  width: 164px;
-  height: 46px;
+  width: 162px;
+  height: 44px;
   top: -1px;
   left: -1px;
-  background-color: #c170ff;
+  background-color: #C271FF;
   border-radius: 22px;
+  flex-shrink: 0;
 }
   .main-page .main-section {
     background-color: #fa04bc;
@@ -176,26 +177,22 @@
   top: 419px;
   left: 639px;
   overflow: hidden;
-  box-shadow: 0px 2px 20px #00000080;
-}
-
-.main-page .text-wrapper-10 {
-  font-family: "Source Sans Pro-Bold", Helvetica;
-  font-weight: 700;
-  color: #c170ff;
 }
 
 .main-page .text-wrapper-register {
-  position: absolute;
-  top: 13px;
-  left: 21px;
-  font-family: "Source Sans Pro-Semibold", Helvetica;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 14px;
-  text-align: center;
   letter-spacing: 0;
+  white-space: nowrap;
+  color: #FFF;
+  font-family: "Source Sans Pro";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
   line-height: normal;
+  display: flex;
+  align-items: center; /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  height: 100%; /* Set height to 100% for vertical centering */
 }
+
 
 

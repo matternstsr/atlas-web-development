@@ -31,10 +31,10 @@
 }
 
 .main-page .background-container {
-  background: url(img/lady_laugh.png), radial-gradient(ellipse at 50% 50%, #29303D, #071629);
-  background-size: 100% 100%;
-  width: 1440px;
-  height: 1093px;
+  width: 1448.15px;
+  height: 1055px;
+  flex-shrink: 0;
+  background: radial-gradient(ellipse at center, rgba(41, 48, 61, 0.00) 0%, #071629 100%), url(img/lady_laugh.png) lightgray 0px 0px / 100% 100% no-repeat;
   position: absolute;
   background-blend-mode:luminosity;
   top: 0;

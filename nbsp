@@ -1,0 +1,5 @@
+Command 'took' not found, did you mean:
+  command 'toot' from snap toot (0.38.1)
+  command 'toot' from deb toot (0.28.0-2)
+  command 'look' from deb bsdextrautils (2.37.2-4ubuntu3)
+See 'snap info <snapname>' for additional versions.

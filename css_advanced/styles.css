@@ -285,6 +285,8 @@
   position: absolute;
   top: 0;
   left: 0;
+  border-radius: 50%;
+  overflow: hidden;
 }
 
 .main-page .smilername {
@@ -318,3 +320,4 @@
   letter-spacing: 0;
   line-height: 24px;
 }
+

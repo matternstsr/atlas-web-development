@@ -625,15 +625,59 @@
 
 
 .main-page .play {
-  position: relative;
+  position: absolute;
   width: 16rem;
   height: 9.6rem;
   flex-shrink: 0;
   border-radius: 5px 5px 0px 0px;
   background: #D8D8D8;
-  z-index: 1; /* Adjust the z-index as needed */
   
 }
+
+.main-page .play2 {
+  width: 4rem;
+  height: 4rem;
+  background: transparent;
+  z-index: 1;
+  margin-top: 20%;
+  margin-left: 40%;
+  position: absolute;
+}
+
+.main-page .play-wrapper {
+  width: 255px;
+  height: 154px;
+  top: 1px;
+  left: 1px;
+  background-size: 100% 100%;
+  position: relative;
+  }
+
+.main-page .overlap-group-3 img.play {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.main-page .play-wrapper img.play {
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+.main-page .overlap img.play {
+width: 100%;
+height: 100%;
+flex-shrink: 0;
+object-fit: cover;
+}
+
+.main-page .img-wrapper img.play {
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
 
 
 
@@ -815,40 +859,6 @@
   background-size: 100% 100%;
 }
 
-.main-page .overlap-group-3 img.play {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-.main-page .play-wrapper img.play {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.main-page .overlap img.play {
-  width: 100%;
-  height: 100%;
-  flex-shrink: 0;
-  object-fit: cover;
-}
-
-.main-page .img-wrapper img.play {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-
-.main-page .play-wrapper {
-  position: absolute;
-  width: 255px;
-  height: 154px;
-  top: 1px;
-  left: 1px;
-  background-size: 100% 100%;
-}
 
 .main-page .overlap-group-3 {
   position: absolute;

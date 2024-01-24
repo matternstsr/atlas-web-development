@@ -25,7 +25,7 @@
   flex-shrink: 0;
 }
 .main-page .main-section {
-  background-color: #ffffff;;
+  background-color: #f80404;;
   overflow: hidden;
   width: 1440px;
   height: 3718px;
@@ -112,6 +112,15 @@
   line-height: normal;
 }
 
+.main-page .main-part {
+  position: absolute;
+  width: 1440px;
+  height: 1093px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/background.png);
+  background-size: 100% 100%;
+}
 
 .main-page .get-schooled {
   position: absolute;
@@ -1066,3 +1075,31 @@ overflow: hidden;
   line-height: normal;
 }
 
+.main-page .logo {
+  position: absolute;
+  width: 169px;
+  height: 30px;
+  top: 96px;
+  left: 166px;
+}
+
+.main-page .text-wrapper {
+  position: absolute;
+  top: 5px;
+  left: 55px;
+  font-family: "Coiny-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.main-page .smile {
+  position: absolute;
+  width: 36px;
+  height: 29px;
+  top: 0;
+  left: 1px;
+}
